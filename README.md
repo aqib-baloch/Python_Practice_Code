@@ -1,4 +1,4 @@
-Python Practice Code
+#Python Practice Code
 A collection of Python scripts and exercises to practice and improve Python programming skills. This repository covers topics ranging from basic concepts to advanced techniques.
 
 Features
